@@ -1,0 +1,47 @@
+body {
+    background-color:gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#template div{
+          display: inline-block;
+          text-align: center;
+          margin: 30px;
+          
+}
+h1 {
+    text-align: center;
+    font-weight: lighter;
+    
+    }
+
+.gym-weight{
+    width: 400px;
+    height: 300px;
+    background-color: cadetblue;
+    background-image: url(https://templatemo.com/templates/templatemo_559_zay_shop/assets/img/feature_prod_01.jpg);
+    background-position: center;
+    background-size: 100%;
+   }
+h3 {
+    text-align: center;
+    font-weight: normal;
+}
+.word { 
+       font-weight: normal;
+}
+.cloud-nike {
+    width: 400px;
+    height: 300px;
+    background-color: azure;
+    background-image: url(https://templatemo.com/templates/templatemo_559_zay_shop/assets/img/feature_prod_02.jpg);
+    background-position: center;
+    background-size: 100%;
+}
+.summer-addidas {
+    width: 400px;
+    height: 300px;
+    background-color: darkgray;
+    background-image: url(https://templatemo.com/templates/templatemo_559_zay_shop/assets/img/feature_prod_03.jpg);
+    background-position: center;
+    background-size: 100%;
+}
